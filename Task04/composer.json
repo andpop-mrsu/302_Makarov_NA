@@ -1,0 +1,18 @@
+{
+    "name": "makarovna/task04",
+    "autoload": {
+        "psr-4": {
+            "Makarovna\\Task04\\": "src/"
+        },
+        "files": [
+            "src/Test.php", 
+            "src/checkIfBalanced.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "makarovna"
+        }
+    ],
+    "require": {}
+}
